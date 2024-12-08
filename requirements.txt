@@ -1,1 +1,7 @@
 pytest
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+streamlit
